@@ -2,9 +2,9 @@
 
 # Pedro Brassi 👨‍💻
 
-### Computer Science Student @ UNIFAL • C/C++ • Algorithms • Graphs • Systems
+### Computer Science Student @ UNIFAL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C+%26+C%2B%2B+Developer;Algorithms+%26+Data+Structures;Graphs+%26+Shortest+Path+Problems;Always+learning+new+things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+at+UNIFAL;Always+learning+new+things" />
 
 </div>
 
@@ -13,54 +13,21 @@
 ## 🚀 About Me
 
 🎓 Computer Science student at **UNIFAL**  
-💻 Focused on **Algorithms, Data Structures, Graph Theory and Systems Programming**  
-🧠 Interested in **performance, optimization and computational problem solving**  
-📚 Constantly building academic and personal projects to improve software engineering skills
+📚 Repository dedicated to academic studies, projects and materials developed throughout the degree.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-### Languages
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-### Tools & Technologies
+![Haskell](https://img.shields.io/badge/Haskell-000?style=for-the-badge&logo=haskell)
+![Verilog](https://img.shields.io/badge/Verilog-000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Makefile](https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnu)
-
----
-
-## 📌 Featured Projects
-
-### 🔹 AEDS III – Shortest Path Algorithms
-📍 Study and implementation of graph algorithms with performance analysis.
-
-- Dijkstra
-- Bellman-Ford
-- Duan et al. (2025)
-- Graph topology experiments
-- Complexity analysis
-
-🔗 Repository:  
-:contentReference[oaicite:0]{index=0}
-
----
-
-### 🔹 Prep – Competitive Programming / Problem Solving
-📍 Repository dedicated to exercises, algorithm practice and problem-solving.
-
-- Logic building
-- Functional thinking
-- Algorithm training
-- Academic exercises
-
-🔗 Repository:  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -76,29 +43,8 @@
 
 ---
 
-## 📚 Current Interests
-
-- Graph Algorithms
-- Data Structures
-- Performance Optimization
-- Systems Programming
-- Computational Problem Solving
-- Software Engineering
-
----
-
-## 🎯 Current Goal
-
-Building strong foundations in **Computer Science and Software Development** through practical projects, algorithm implementation and performance analysis.
-
----
-
 <div align="center">
 
-### 📫 Contact
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PedroBrassi)
-
-> *“First make it work. Then make it fast.”*
 
 </div>
