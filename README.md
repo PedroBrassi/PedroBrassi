@@ -4,8 +4,6 @@
 
 ### Computer Science Student @ UNIFAL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+at+UNIFAL;Always+learning+new+things" />
-
 </div>
 
 ---
